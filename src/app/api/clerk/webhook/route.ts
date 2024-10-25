@@ -14,7 +14,7 @@ export const POST = async (req: Request) => {
             firstName: firstName,
             lastName: lastName,
             emailAddress: emailAddress,
-            imageURL: imageUrl
+            imageURL: imageUrl,
         }
     });
 
